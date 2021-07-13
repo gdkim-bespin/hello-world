@@ -1,1 +1,3 @@
 README TEST FILE
+
+NEW TEXT for git diff
